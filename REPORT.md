@@ -1,6 +1,6 @@
 Name: <Your name here>
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: hello world commented out. Removed comment indicator.
 
 Notes: The more concise and detailed the notes, the better the grade.  
 
